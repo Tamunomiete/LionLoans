@@ -1,0 +1,6 @@
+@LionLoansApi_HostAddress = http://localhost:5115
+
+GET {{LionLoansApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

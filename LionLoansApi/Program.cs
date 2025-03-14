@@ -10,7 +10,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 
 builder.Services.AddIdentity<User, IdentityRole>()
-    .AddEntityFrameworkStores<SQLDAL>()
+    .AddEntityFrameworkStores<LionLoansSQLDAL>()
     .AddDefaultTokenProviders();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

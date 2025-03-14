@@ -10,7 +10,7 @@ namespace LionLoansApi.Controllers
 
     public class UserManagementController : Controller
     {
-        private readonly SQLDAL _sQLDAL;
+        private readonly LionLoansSQLDAL _sQLDAL;
         private readonly EmailService _emailService;
         private readonly SmsService _smsService;
         private readonly StorageService _storageService;
@@ -48,7 +48,7 @@ namespace LionLoansApi.Controllers
                 return BadRequest(new { Message = "Email is already registered." });
             }
 
-            var existingUserByPhone = _dbContext.Users.FirstOrDefault(u => u.PhoneNumber == request.PhoneNumber);
+            var existingUserByPhone = _sQLDAL.Users.FirstOrDefault(u => u.PhoneNumber == request.PhoneNumber);
             if (existingUserByPhone != null)
             {
                 return BadRequest(new { Message = "Phone number is already registered." });
@@ -95,8 +95,8 @@ namespace LionLoansApi.Controllers
 
             // Update user's KYC document URL
             var user = await _userManager.FindByIdAsync(request.UserId);
-            user.KYCDocumentUrl = documentUrl;
-            await _userManager.UpdateAsync(user);
+           
+            
 
             return Ok(new { Message = "KYC document uploaded successfully.", DocumentUrl = documentUrl });
         }

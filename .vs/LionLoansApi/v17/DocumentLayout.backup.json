@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|c:\\users\\administrator\\source\\repos\\lionloansapi\\lionloansapi\\dal\\corporateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|solutionrelative:lionloansapi\\dal\\corporateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|c:\\users\\administrator\\source\\repos\\lionloansapi\\lionloansapi\\interface\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|solutionrelative:lionloansapi\\interface\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|c:\\users\\administrator\\source\\repos\\lionloansapi\\lionloansapi\\dal\\lionloanssqlentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|solutionrelative:lionloansapi\\dal\\lionloanssqlentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|c:\\users\\administrator\\source\\repos\\lionloansapi\\lionloansapi\\dal\\lionloanssqldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|solutionrelative:lionloansapi\\dal\\lionloanssqldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|c:\\users\\administrator\\source\\repos\\lionloansapi\\lionloansapi\\dal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|solutionrelative:lionloansapi\\dal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|c:\\users\\administrator\\source\\repos\\lionloansapi\\lionloansapi\\dal\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|solutionrelative:lionloansapi\\dal\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|c:\\users\\administrator\\source\\repos\\lionloansapi\\lionloansapi\\dal\\verificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|solutionrelative:lionloansapi\\dal\\verificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|c:\\users\\administrator\\source\\repos\\lionloansapi\\lionloansapi\\dal\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|solutionrelative:lionloansapi\\dal\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|c:\\users\\administrator\\source\\repos\\lionloansapi\\lionloansapi\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|solutionrelative:lionloansapi\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|c:\\users\\administrator\\source\\repos\\lionloansapi\\lionloansapi\\dal\\kycrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|solutionrelative:lionloansapi\\dal\\kycrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|c:\\users\\administrator\\source\\repos\\lionloansapi\\lionloansapi\\dal\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|solutionrelative:lionloansapi\\dal\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|c:\\users\\administrator\\source\\repos\\lionloansapi\\lionloansapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|solutionrelative:lionloansapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|c:\\users\\administrator\\source\\repos\\lionloansapi\\lionloansapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|solutionrelative:lionloansapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|c:\\users\\administrator\\source\\repos\\lionloansapi\\lionloansapi\\dal\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|solutionrelative:lionloansapi\\dal\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|c:\\users\\administrator\\source\\repos\\lionloansapi\\lionloansapi\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|solutionrelative:lionloansapi\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|c:\\users\\administrator\\source\\repos\\lionloansapi\\lionloansapi\\controllers\\verificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|solutionrelative:lionloansapi\\controllers\\verificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|c:\\users\\administrator\\source\\repos\\lionloansapi\\lionloansapi\\dal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|solutionrelative:lionloansapi\\dal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|c:\\users\\administrator\\source\\repos\\lionloansapi\\lionloansapi\\dal\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|solutionrelative:lionloansapi\\dal\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9614C50-5D57-4638-B24D-FC5F1BBB4BE8}|LionLoansApi\\LionLoansApi.csproj|c:\\users\\administrator\\source\\repos\\lionloansapi\\lionloansapi\\dal\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,121 +58,158 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VerificationService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\VerificationService.cs",
-              "RelativeDocumentMoniker": "LionLoansApi\\DAL\\VerificationService.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\VerificationService.cs",
-              "RelativeToolTip": "LionLoansApi\\DAL\\VerificationService.cs",
+              "Title": "CorporateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\CorporateUserRequest.cs",
+              "RelativeDocumentMoniker": "LionLoansApi\\DAL\\CorporateUserRequest.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\CorporateUserRequest.cs",
+              "RelativeToolTip": "LionLoansApi\\DAL\\CorporateUserRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T23:13:20.703Z",
+              "WhenOpened": "2025-03-14T15:02:45.017Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "KYCRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\KYCRequest.cs",
-              "RelativeDocumentMoniker": "LionLoansApi\\DAL\\KYCRequest.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\KYCRequest.cs",
-              "RelativeToolTip": "LionLoansApi\\DAL\\KYCRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T17:35:55.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StorageService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\StorageService.cs",
-              "RelativeDocumentMoniker": "LionLoansApi\\DAL\\StorageService.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\StorageService.cs",
-              "RelativeToolTip": "LionLoansApi\\DAL\\StorageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T17:33:13.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserManagementController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\Controllers\\UserManagementController.cs",
-              "RelativeDocumentMoniker": "LionLoansApi\\Controllers\\UserManagementController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\Controllers\\UserManagementController.cs",
-              "RelativeToolTip": "LionLoansApi\\Controllers\\UserManagementController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:53:01.74Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\EmailService.cs",
-              "RelativeDocumentMoniker": "LionLoansApi\\DAL\\EmailService.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\EmailService.cs",
-              "RelativeToolTip": "LionLoansApi\\DAL\\EmailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Title": "IDatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\Interface\\IDatabaseService.cs",
+              "RelativeDocumentMoniker": "LionLoansApi\\Interface\\IDatabaseService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\Interface\\IDatabaseService.cs*",
+              "RelativeToolTip": "LionLoansApi\\Interface\\IDatabaseService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:50:59.769Z",
+              "WhenOpened": "2025-03-14T15:00:50.437Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\UserService.cs",
-              "RelativeDocumentMoniker": "LionLoansApi\\DAL\\UserService.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\UserService.cs",
-              "RelativeToolTip": "LionLoansApi\\DAL\\UserService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAgAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "LionLoansSQLEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\LionLoansSQLEntity.cs",
+              "RelativeDocumentMoniker": "LionLoansApi\\DAL\\LionLoansSQLEntity.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\LionLoansSQLEntity.cs",
+              "RelativeToolTip": "LionLoansApi\\DAL\\LionLoansSQLEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T15:30:36.672Z"
+              "WhenOpened": "2025-03-14T14:59:00.861Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\Program.cs",
-              "RelativeDocumentMoniker": "LionLoansApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\Program.cs",
-              "RelativeToolTip": "LionLoansApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T15:29:22.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "VerificationController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\Controllers\\VerificationController.cs",
-              "RelativeDocumentMoniker": "LionLoansApi\\Controllers\\VerificationController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\Controllers\\VerificationController.cs",
-              "RelativeToolTip": "LionLoansApi\\Controllers\\VerificationController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBIAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T20:11:29.93Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\User.cs",
               "RelativeDocumentMoniker": "LionLoansApi\\DAL\\User.cs",
               "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\User.cs",
               "RelativeToolTip": "LionLoansApi\\DAL\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:48:19.929Z"
+              "WhenOpened": "2025-03-14T14:32:43.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LionLoansSQLDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\LionLoansSQLDAL.cs",
+              "RelativeDocumentMoniker": "LionLoansApi\\DAL\\LionLoansSQLDAL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\LionLoansSQLDAL.cs*",
+              "RelativeToolTip": "LionLoansApi\\DAL\\LionLoansSQLDAL.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:20:48.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\Program.cs",
+              "RelativeDocumentMoniker": "LionLoansApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\Program.cs*",
+              "RelativeToolTip": "LionLoansApi\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:11:27.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\UserRequest.cs",
+              "RelativeDocumentMoniker": "LionLoansApi\\DAL\\UserRequest.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\UserRequest.cs*",
+              "RelativeToolTip": "LionLoansApi\\DAL\\UserRequest.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:48:49.017Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "UserManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\Controllers\\UserManagementController.cs",
+              "RelativeDocumentMoniker": "LionLoansApi\\Controllers\\UserManagementController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\Controllers\\UserManagementController.cs*",
+              "RelativeToolTip": "LionLoansApi\\Controllers\\UserManagementController.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:49:02.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VerificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\VerificationService.cs",
+              "RelativeDocumentMoniker": "LionLoansApi\\DAL\\VerificationService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\VerificationService.cs",
+              "RelativeToolTip": "LionLoansApi\\DAL\\VerificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:14:34.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\appsettings.json",
+              "RelativeDocumentMoniker": "LionLoansApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\appsettings.json",
+              "RelativeToolTip": "LionLoansApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T10:09:57.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\EmailService.cs",
+              "RelativeDocumentMoniker": "LionLoansApi\\DAL\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\EmailService.cs",
+              "RelativeToolTip": "LionLoansApi\\DAL\\EmailService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:48:57.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "SmsService.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LionLoansApi\\LionLoansApi\\DAL\\SmsService.cs",
               "RelativeDocumentMoniker": "LionLoansApi\\DAL\\SmsService.cs",
@@ -172,7 +217,8 @@
               "RelativeToolTip": "LionLoansApi\\DAL\\SmsService.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAqwBQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T19:56:06.189Z"
+              "WhenOpened": "2025-02-24T19:56:06.189Z",
+              "EditorCaption": ""
             }
           ]
         }

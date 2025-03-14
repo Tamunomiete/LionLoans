@@ -11,6 +11,8 @@ namespace LionLoansApi.DAL
         [Required(ErrorMessage = "First name is required.")]
         public string FirstName { get; set; }
 
+        public string MiddleName { get; set; }
+        
         [Required(ErrorMessage = "Date of birth is required.")]
         public DateTime DOB { get; set; }
 
